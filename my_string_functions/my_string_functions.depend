@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1483460422 source:c:\users\dominik\dropbox\1. semester\informatik (swe und algodat)\softwarentwicklung simon\stringfunktionen\my_string_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mystring.h"
+
+1483871888 c:\users\dominik\dropbox\1. semester\informatik (swe und algodat)\softwarentwicklung simon\stringfunktionen\my_string_functions\mystring.h
+	<stdio.h>
+	<stdlib.h>
+
+1483872024 source:c:\users\dominik\dropbox\1. semester\informatik (swe und algodat)\softwarentwicklung simon\stringfunktionen\my_string_functions\my_string_function.c
+	<stdio.h>
+	<stdlib.h>
+	"mystring.h"
+
