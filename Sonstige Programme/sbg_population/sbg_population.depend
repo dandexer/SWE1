@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1485955333 source:c:\users\dominik\desktop\sbg_population\sbg_population.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sbg_population.h"
+
+1485953468 c:\users\dominik\desktop\sbg_population\sbg_population.h
+	<stdio.h>
+	<stdlib.h>
+
+1486220339 source:c:\users\dominik\dropbox\sbg_population\sbg_population.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sbg_population.h"
+
+1486220135 c:\users\dominik\dropbox\sbg_population\sbg_population.h
+	<stdio.h>
+	<stdlib.h>
+
